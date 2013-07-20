@@ -9,3 +9,4 @@ README
 script/aspsms
 t/00.load.t
 t/01.xml.t
+META.json
